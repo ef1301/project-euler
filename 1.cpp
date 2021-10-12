@@ -20,6 +20,8 @@ int problem2(int n) {
   return sum;
 }
 
+int problem3()
+
 int main() {
   cout << problem1(1000) << endl;
   cout << problem2(4000000) << endl;
